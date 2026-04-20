@@ -53,3 +53,14 @@ ViewFlipper
 Coil
 MediaPlayer
 Animaciones XML
+
+Capturas de pantalla
+
+Pantalla principal
+![Pantalla principal](screenshots/main.png)
+
+Ejercicio 1: Paisajes
+![Paisajes](screenshots/paisajes.png)
+
+Ejercicio 2: Imágenes
+![Imágenes](screenshots/imagenes.png)
