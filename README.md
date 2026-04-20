@@ -53,4 +53,5 @@ ViewFlipper
 Coil
 MediaPlayer
 Animaciones XML
+<img width="235" height="524" alt="main" src="https://github.com/user-attachments/assets/0afde9c7-e6ea-49f1-861b-27158c735359" />
 
